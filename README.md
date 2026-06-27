@@ -19,7 +19,7 @@
 
 
  <br><br>
-<img src="https://readme-typing-svg.herokuapp.com?background=0D1117&color=4A0000&center=true&vCenter=true&width=260&height=40&lines=👀+Ana 3mk" />
+<img src="https://readme-typing-svg.herokuapp.com?background=0D1117&color=4A0000&center=true&vCenter=true&width=260&height=40&lines=👀+Ana3mk" />
  <br>
 </div>
 
