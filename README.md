@@ -7,7 +7,7 @@
 > ### 🆕 Updates 
  
 ```BY 
- [+] Last update: 22/12/2025
+ [+] Last update: 23/10/2022
  
  [+] Dev: 0xReven
  ```
